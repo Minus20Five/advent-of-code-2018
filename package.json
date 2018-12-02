@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-2018",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha */test.js",
+    "day1": "node day1/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minus20Five/advent-of-code-2018.git"
+  },
+  "author": "Tony Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Minus20Five/advent-of-code-2018/issues"
+  },
+  "homepage": "https://github.com/Minus20Five/advent-of-code-2018#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
