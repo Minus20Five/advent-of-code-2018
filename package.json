@@ -4,7 +4,8 @@
   "description": "",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha */test.js",
-    "day1": "node day1/index.js"
+    "day1": "node day1/index.js",
+    "day2": "node day2/index.js"
   },
   "repository": {
     "type": "git",
