@@ -9,5 +9,4 @@ fs.readFile("day2/input.txt", (err, data) => {
 
   console.log("Part 1: ", solution.part1(list));
   console.log("Part 2: ", solution.part2(list));
-  // console.log("Part 2 (first repeat): ", solution.part2(list));
 });
